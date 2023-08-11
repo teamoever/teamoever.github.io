@@ -1,0 +1,104 @@
+---
+title: 友情链接
+date: 2021-06-16 00:34:27
+---
+
+<div class="post-body">
+   <div id="links">
+      <style>
+         .links-content{
+         margin-top:1rem;
+         }
+         .link-navigation::after {
+         content: " ";
+         display: block;
+         clear: both;
+         }
+         @media (max-width: 860px)
+         .card {
+          width: calc(100% - 2rem);
+         }
+         .card {
+         width: 45%;
+         font-size: 1rem;
+         padding: 10px 20px;
+         border-radius: 4px;
+         transition-duration: 0.15s;
+         margin-bottom: 1rem;
+         display:flex;
+         }
+         .card:nth-child(odd) {
+         float: left;
+         }
+         .card:nth-child(even) {
+         float: left;
+         }
+         .card:hover {
+         transform: scale(1.1);
+         box-shadow: 0 2px 6px 0 rgba(0, 0, 0, 0.12), 0 0 6px 0 rgba(0, 0, 0, 0.04);
+         }
+         .card a {
+         border:none;
+         }
+         .card .ava {
+         width: 3rem!important;
+         height: 3rem!important;
+         margin:0!important;
+         margin-right: 1em!important;
+         border-radius:4px;
+         }
+         .card .card-header {
+         font-style: italic;
+         overflow: hidden;
+         width: 100%;
+         }
+         .card .card-header a {
+         font-style: normal;
+         color: #2bbc8a;
+         font-weight: bold;
+         text-decoration: none;
+         }
+         .card .card-header a:hover {
+         color: #d480aa;
+         text-decoration: none;
+         }
+         .card .card-header .info {
+         font-style:normal;
+         color:#a3a3a3;
+         font-size:14px;
+         min-width: 0;
+         overflow: hidden;
+         white-space: nowrap;
+         }
+      </style>
+         <div class="links"
+         <div class="links">
+            <div class="item" title="软件汇" style="--block-color:#e9546b">
+               <span class="exturl image" data-url="aHR0cHM6Ly9yai5hcmpoLnRvcC8=" data-background-image="https://rj.arjh.top/logo.png"></span>
+               <div class="info">
+                 <span class="exturl title" data-url="aHR0cHM6Ly9yai5hcmpoLnRvcC8=">软件汇</span>
+                 <p class="desc">技术教程，破解资源分享平台</p>
+              </div>
+            </div>
+            <div class="item" title="kaveys" style="--block-color:#f58f98">
+                  <span class="exturl image" data-url="aHR0cHM6Ly94bi0tczFydTQxYy50b3Av" data-background-image="https://thirdqq.qlogo.cn/g?b=qq&nk=1829839270&s=100"></span>
+                  <div class="info">
+                        <span class="exturl title" data-url="aHR0cHM6Ly94bi0tczFydTQxYy50b3Av">kaveys</span>
+                        <p class="desc">摸鱼从未结束，白嫖从未终止</p>
+                  </div>
+               </div>
+                     <div class="item" title="天边" style="--block-color:#363b40">
+                          <span class="exturl image" data-url="aHR0cHM6Ly93d3cueHBzcHguY24v" data-background-image="https://www.xpspx.cn/img/785sd41a6d4as.jpg"></span>
+                           <div class="info">
+                              <span class="exturl title" data-url="aHR0cHM6Ly93d3cueHBzcHguY24v">天边</span>
+                              <p class="desc">渗透菜鸟</p>
+                           </div>
+                        </div>
+                     <div class="item" title="网易云助手" style="--block-color:#fab27b">
+                          <span class="exturl image" data-url="aHR0cHM6Ly9jcy5hMjYudG9w" data-background-image="https://ts1.cn.mm.bing.net/th/id/R-C.81daab956f85add56974882fa12c5489?rik=yG0yOY7T4bYUdg&riu=http%3a%2f%2fwx.qlogo.cn%2fmmhead%2fQ3auHgzwzM4K1FR6OnY54LicS9MP8UjOrMLIfgH1OhFa0nfg7FUd5ww%2f0&ehk=64ExOs6i6GMMsP6mwkAQBjVNYZaBJjuDkDkJ5JMGDRg%3d&risl=&pid=ImgRaw&r=0"></span>
+                           <div class="info">
+                              <span class="exturl title" data-url="aHR0cHM6Ly9jcy5hMjYudG9w">网易云助手</span>
+                              <p class="desc">网易云小工具</p>
+                           </div>
+                        </div>
+         </div>
